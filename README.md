@@ -21,7 +21,6 @@ Enhanced Snake Game is a classic snake game implemented in Java using Swing for 
    git clone https://github.com/Vishwajasiri/enhanced-snake-game.git
 3. Compile the Java source files using a Java compiler.
 4. Run the compiled program to start playing the game.
-5. 
 ## Acknowledgements:
 - This project was inspired by the classic snake game and various online tutorials.
 - Special thanks to the Java Swing documentation and resources for providing guidance on building graphical user interfaces.**
